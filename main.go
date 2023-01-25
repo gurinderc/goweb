@@ -12,6 +12,29 @@ func main() {
 			<html>
 				<head>
 					<title>Mario Landing Page</title>
+					<style>
+						body {
+							background-color: #f0f0f0;
+							font-family: Arial, sans-serif;
+							text-align: center;
+						}
+						h1 {
+							color: #333333;
+							margin-top: 50px;
+						}
+						img {
+							border-radius: 20%;
+							margin: 20px 0;
+							box-shadow: 10px 10px 5px #888888;
+						}
+						p {
+							color: #555555;
+							font-size: 22px;
+							line-height: 1.6;
+							margin: 20px 0;
+							text-align: center;
+						}
+				    </style>
 				</head>
 				<body>
 					<h1>Welcome to the Mario Landing Page</h1>
